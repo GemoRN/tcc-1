@@ -1,0 +1,25 @@
+
+https://cloud.google.com/appengine
+
+
+https://cloud.google.com/sdk
+
+
+
+Install the Google Cloud CLI by clicking on Google Cloud CLI installer\
+
+https://cloud.google.com/sdk/docs/install-sdk
+
+
+RUN - 
+
+gcloud components install app-engine-java
+
+gcloud projects create
+
+gcloud app create
+
+for delete - gcloud project delete
+
+
+
