@@ -19,3 +19,14 @@ Practical no 01
 13.	Right click on project > run as > Maven build 
 14.	In the following pop-up, enter the goals as ‘clean install’ 
 15.	Right click on project > Run as > Run on server > Apache Tomcat v9 > select any file in configured > Finish  To see the output 
+	
+	
+	
+https://www.eclipse.org/downloads/download.php?file=/oomph/epp/2022-12/R/eclipse-inst-jre-win64.exe&mirror_id=1281
+
+https://archive.apache.org/dist/tomcat/tomcat-7/v7.0.32/bin/apache-tomcat-7.0.32-windows-x64.zip
+
+create malven project 
+
+org.apache.malven.archtypes
+
